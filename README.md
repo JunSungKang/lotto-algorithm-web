@@ -18,7 +18,3 @@ AI 딥러닝 통계 기반 로또 제외수 분석 서비스
 - React + Vite
 - GitHub Pages
 - AI 통계 분석 엔진 (Server-Side)
-
----
-
-**분석 엔진**: Lotto Analyzer Pro v2.0
