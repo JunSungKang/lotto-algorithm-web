@@ -9,7 +9,7 @@ function App() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    fetch('/all.json')
+    fetch(`${import.meta.env.BASE_URL}all.json`)
       .then(res => res.json())
       .then(data => {
         setAllData(data)
