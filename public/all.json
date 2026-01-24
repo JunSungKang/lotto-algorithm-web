@@ -38207,7 +38207,7 @@
 				"winners": 2097459
 			}
 		],
-		"total_sales_amount": 95895844000,
+		"total_sales_amount": 94895844000,
 		"winners_combination": {
 			"auto": 8,
 			"manual": 6
@@ -47347,6 +47347,28 @@
 		],
 		"bonus_no": 2,
 		"date": "2026-01-03T00:00:00Z",
+		"divisions": [
+			{},
+			{},
+			{},
+			{},
+			{}
+		],
+		"total_sales_amount": 0,
+		"winners_combination": {}
+	},
+	{
+		"draw_no": 1206,
+		"numbers": [
+			10,
+			22,
+			24,
+			27,
+			38,
+			45
+		],
+		"bonus_no": 11,
+		"date": "2026-01-10T00:00:00Z",
 		"divisions": [
 			{},
 			{},
