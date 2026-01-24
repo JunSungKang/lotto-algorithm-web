@@ -47378,5 +47378,27 @@
 		],
 		"total_sales_amount": 0,
 		"winners_combination": {}
+	},
+	{
+		"draw_no": 1207,
+		"numbers": [
+			10,
+			22,
+			24,
+			27,
+			38,
+			45
+		],
+		"bonus_no": 11,
+		"date": "2026-01-17T00:00:00Z",
+		"divisions": [
+			{},
+			{},
+			{},
+			{},
+			{}
+		],
+		"total_sales_amount": 0,
+		"winners_combination": {}
 	}
 ]
